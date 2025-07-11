@@ -4,4 +4,4 @@ buat 2 program bebas
 2. yang kedua saya hanya bikim program menambahkan angka sederhana
 
 kesimpulan:
-sudah mulai mehamahi penggunaan string dan integer/ float, dan saya harus sering sering berlatih supaya lebih familiar, yang masih binggung itu penggunaan string saja, jujurly sedikit pakai AI karna mengoreksi coding saya yang error
+sudah mulai memahami penggunaan string dan integer/ float, dan saya harus sering sering berlatih supaya lebih familiar, yang masih binggung itu penggunaan string saja, jujurly sedikit pakai AI karna mengoreksi coding saya yang error
