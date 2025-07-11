@@ -7,4 +7,4 @@ buat 2 program bebas
 
 # kesimpulan:
 
-sudah mulai memahami penggunaan string dan integer/ float, dan saya harus sering sering berlatih supaya lebih familiar, yang masih binggung itu penggunaan string saja, jujurly sedikit pakai AI karna mengoreksi coding saya yang error
+sudah mulai memahami penggunaan string dan integer/ float, dan saya harus sering sering berlatih supaya lebih familiar, yang masih binggung itu penggunaan string saja, jujurly sedikit pakai AI karna mengoreksi coding saya yang error, terimakasih coach alexx berkah selalu ilmunya
